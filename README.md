@@ -1,2 +1,2 @@
 # GameStationDemo
- Video games digital distribution service simulation demo for C# + Angular Camp
+ Video game digital distribution service simulation for C#-Angular Camp
