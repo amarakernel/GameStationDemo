@@ -1,0 +1,4 @@
+C:\Users\sedac\source\repos\GameStationDemo\obj\Debug\netcoreapp3.1\GameStationDemo.csprojAssemblyReference.cache
+C:\Users\sedac\source\repos\GameStationDemo\obj\Debug\netcoreapp3.1\GameStationDemo.AssemblyInfoInputs.cache
+C:\Users\sedac\source\repos\GameStationDemo\obj\Debug\netcoreapp3.1\GameStationDemo.AssemblyInfo.cs
+C:\Users\sedac\source\repos\GameStationDemo\obj\Debug\netcoreapp3.1\GameStationDemo.csproj.CoreCompileInputs.cache
